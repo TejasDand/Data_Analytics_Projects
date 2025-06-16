@@ -18,9 +18,9 @@ df['Content Rating'] = df['Content Rating'].astype('category')
 
 # Removing Last Updated column with New columns like Date Month and Year
 df['Last Updated'] = pd.to_datetime(df['Last Updated'], errors='coerce')
-df['Date'] = df['Last Updated'].dt.date
-df['Month'] = df['Last Updated'].dt.month_name()
-df['Year'] = df['Last Updated'].dt.year
+df['Last Updated Date'] = df['Last Updated'].dt.date
+df['Last Updated Month'] = df['Last Updated'].dt.month_name()
+df['Last Updated Year'] = df['Last Updated'].dt.year
 df = df.drop('Last Updated', axis=1)
 
 # Removing a string '$' in Price column
