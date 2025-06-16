@@ -14,8 +14,14 @@ df = df.drop(['Genres', 'Current Ver', 'Android Ver'], axis=1)
 # Converting column data types
 df['Category'] = df['Category'].astype('category')
 df['Reviews'] = pd.to_numeric(df['Reviews'], errors='coerce')
-df['Last Updated'] = pd.to_datetime(df['Last Updated'], errors='coerce')
 df['Content Rating'] = df['Content Rating'].astype('category')
+
+# Removing Last Updated column with New columns like Date Month and Year
+df['Last Updated'] = pd.to_datetime(df['Last Updated'], errors='coerce')
+df['Date'] = df['Last Updated'].dt.date
+df['Month'] = df['Last Updated'].dt.month_name()
+df['Year'] = df['Last Updated'].dt.year
+df = df.drop('Last Updated', axis=1)
 
 # Removing a string '$' in Price column
 df['Price'] = df['Price'].str.replace('$', '', regex=False)
@@ -54,4 +60,6 @@ print(df.isnull().sum())
 df['Rating'] = df['Rating'].fillna(df['Rating'].median())
 df['Size'] = df['Size'].fillna(df['Size'].median())
 
-df.to_excel(r'C:\Users\tejas\VS CODE\Data_Analytics_Projects\Data_Analytics_Project\Project_3\cleaned_googleplaystore_data.xlsx')
+# print(df.head())
+
+df.to_csv(r'C:\Users\tejas\VS CODE\Data_Analytics_Projects\Data_Analytics_Project\Project_3\cleaned_googleplaystore_data.csv', index=False)
