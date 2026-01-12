@@ -1,4 +1,4 @@
-# **📊 Google Play Store Data Analysis Summary**
+# **📊 Google Play Store Insights**
 
 ---
 
