@@ -22,3 +22,9 @@ Transforming Raw Data into Comprehensive Statistical Summaries
 
 * **Automated PDF Export** : Generates a clean, formatted report titled `EDA_Report.pdf` with one click.
 * **Structural Overview** : Summarizes total rows, columns, and unique values across the dataset.
+
+---
+
+## 🗃️ Sample of EDA_Report (pdf file):
+
+C:\Users\tejas\VS CODE\Data_Analytics_Projects\EDA_Report.pdf
