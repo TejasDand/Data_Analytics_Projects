@@ -27,4 +27,4 @@ Transforming Raw Data into Comprehensive Statistical Summaries
 
 ## 🗃️ Sample of EDA_Report (pdf file):
 
-C:\Users\tejas\VS CODE\Data_Analytics_Projects\EDA_Report.pdf
+[EDA_Report PDF ](https://github.com/TejasDand/Data_Analytics_Projects/blob/aa0cd2ac822dadea6376b4424644083cae62679e/Data_Analytics_Project/Project_4/EDA_Report.pdf "EDA_Report Link")
