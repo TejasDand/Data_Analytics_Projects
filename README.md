@@ -12,6 +12,8 @@ The goal of this repository is to demonstrate my skills in:
 * SQL Business Queries
 * Power BI Dashboards
 
+---
+
 ## 🛠 Tools & Technologies Used
 
 * Python
@@ -23,25 +25,27 @@ The goal of this repository is to demonstrate my skills in:
 * Power BI
 * Jupyter Notebook / VS Code
 
+---
+
 ## 📁 Projects List
 
 Each project folder contains code, analysis, and results.
 
 ### 🔹 Python Projects
 
-1. **[Sales Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_1 "Sales Analysis Folder")**
+1. **[Sales Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_1 "Sales Analysis Folder")**
 
    Sales performance analysis using Python.
 2. **[Weather Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_2 "Weather Analysis Folder")**
 
    Weather data exploration and analysis.
-3. **[Google Play Store Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_3 "GooglePlaystore Analysis Folder")**
+3. **[Google Play Store Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_3 "GooglePlaystore Analysis Folder")**
 
    App ratings, reviews, and category insights.
-4. **[EDA Report (PDF)](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_4 "EDA Report File")**
+4. **[EDA Report (PDF)](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_4 "EDA Report File")**
 
    Automated exploratory data analysis report generated in PDF format.
-5. **[IPL Matches Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_5 "IPL Matches Analysis Folder")**
+5. **[IPL Matches Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_5 "IPL Matches Analysis Folder")**
 
    IPL cricket match data analysis and insights.
 6. **[SuperStore Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_6 "SuperStore Analysis Folder")**
@@ -59,12 +63,14 @@ Each project folder contains code, analysis, and results.
 
 ### 🔹 SQL Projects
 
-9. **[Monday Coffee Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_9 "Monday Coffee Analysis Folder")**
+9. **[Monday Coffee Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_9 "Monday Coffee Analysis Folder")**
 
    SQL-based business analysis for coffee shop expansion.
-10. **[Zepto Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/67b4ac9768d26894a01326e4ac337ebff14c2340/Data_Analytics_Project/Project_10 "Zepto Analysis Folder")**
+10. **[Zepto Analysis](https://github.com/TejasDand/Data_Analytics_Projects/tree/dccdc4385609acbb4b67b2d2ec6b7677fc23baf7/Data_Analytics_Project/Project_10 "Zepto Analysis Folder")**
 
     SQL queries and business insights from Zepto dataset.
+
+---
 
 ## 📌 About Me
 
